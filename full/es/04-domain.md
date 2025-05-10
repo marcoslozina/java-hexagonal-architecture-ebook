@@ -1,0 +1,3 @@
+# Dominio
+
+Entidades, objetos de valor, interfaces...

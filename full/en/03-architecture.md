@@ -1,0 +1,3 @@
+# Hexagonal Architecture
+
+Explanation of layered structure...

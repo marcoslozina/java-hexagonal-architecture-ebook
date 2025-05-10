@@ -1,0 +1,3 @@
+# Testing
+
+JUnit, Mockito, PIT testing...

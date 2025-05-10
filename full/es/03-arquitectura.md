@@ -1,0 +1,3 @@
+# Arquitectura Hexagonal
+
+Explicación de la estructura en capas...

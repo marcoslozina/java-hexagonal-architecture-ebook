@@ -1,0 +1,3 @@
+# Domain
+
+Entities, value objects, interfaces...
