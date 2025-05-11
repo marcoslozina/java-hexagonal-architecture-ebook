@@ -1,3 +1,0 @@
-# Aplicación
-
-Casos de uso, orquestación del dominio...

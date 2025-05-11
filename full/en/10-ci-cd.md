@@ -1,3 +1,0 @@
-# CI/CD
-
-Automation with GitHub Actions, release-please...

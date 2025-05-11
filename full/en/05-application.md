@@ -1,3 +1,0 @@
-# Application
-
-Use cases, domain orchestration...

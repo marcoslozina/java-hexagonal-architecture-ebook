@@ -1,3 +1,0 @@
-# Infraestructura
-
-Spring Boot, configuración, seguridad...

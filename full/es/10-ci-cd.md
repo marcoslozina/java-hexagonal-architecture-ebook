@@ -1,3 +1,0 @@
-# CI/CD
-
-GitHub Actions, release-please, SonarCloud...

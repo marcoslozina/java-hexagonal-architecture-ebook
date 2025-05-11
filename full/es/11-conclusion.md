@@ -1,3 +1,0 @@
-# Conclusión
-
-Resumen, próximos pasos, cierre...

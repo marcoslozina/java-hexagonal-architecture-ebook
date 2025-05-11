@@ -1,3 +1,0 @@
-# Adaptadores
-
-Interfaces con el exterior: REST, JPA, Kafka...
