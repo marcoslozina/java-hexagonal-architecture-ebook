@@ -1,4 +1,5 @@
 # eBook Java Multimódulo con Arquitectura Hexagonal
+[![View on GitBook](https://img.shields.io/badge/View%20on-GitBook-8B3FFD?style=flat&logo=gitbook)](https://java-ebooks.gitbook.io/java-hexagonal-architecture-ebook)
 
 Este repositorio incluye:
 
